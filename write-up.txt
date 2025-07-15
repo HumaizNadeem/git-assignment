@@ -1,0 +1,5 @@
+What Did I Learn?
+
+In this assignment, I learned how to use Git for version control and GitHub for hosting code. 
+I practiced initializing a Git repo, making commits, creating and switching branches, pushing code to GitHub, 
+and simulating collaboration with pull requests. This taught me the basics of how developers work together on projects.

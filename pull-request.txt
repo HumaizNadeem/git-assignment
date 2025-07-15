@@ -1,0 +1,5 @@
+Title: Merge feature-branch into main
+
+Description:
+Added new paragraph in index.html from feature branch.
+This pull request demonstrates basic collaboration.
